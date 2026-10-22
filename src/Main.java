@@ -1,10 +1,7 @@
 public class Main {
-    // [x] 1. Skapa en katt som har ett namn, chipnummer och ras
-    // [x] 2. Skapa ett katthotell som har en lista för alla incheckade katter
-    // [x] 3. Göra så att katthotellet kan ta emot en ny katt till listan
-    // [x] 4. Stoppa incheckningen om chipnumret redan finns på hotellet
-    // [x] 5. Ropa upp och skriva ut alla katter som är på plats
-    // [ ] 6. Säga till om hotellet är helt tomt när vi ropar upp
+// [x] 7. Göra så att hotellet kan leta upp en katt på namn (eller svara tomt om den saknas)
+// [ ] 8. Bygga meny-loopen som snurrar med Scanner tills vi väljer att avsluta
+// [ ] 9. Koppla ihop val 1-4 med hotellet (och skydda sökningen i val 3 mot krasch med en grindvakt)
 
     public static void main(String[] args) {
         kattHotell hotell = new kattHotell();
