@@ -1,4 +1,4 @@
-public class Katt git{
+public class Katt {
     private String namn;
     private int chipnummer;
     private String ras;
